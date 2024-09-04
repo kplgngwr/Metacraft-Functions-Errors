@@ -1,0 +1,13 @@
+{
+  "name": "avax_practice",
+  "version": "1.0.0",
+  "description": "practice project for running solidity locally on machine",
+  "main": "2_deploy_migration.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Kapil Gangwar",
+  "license": "MIT"
+}
