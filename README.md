@@ -12,7 +12,7 @@ This project demonstrates the use of error handling mechanisms in Solidity, spec
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/kplgngwr/Metacraft-Functions&Errors.git
+   git clone https://github.com/kplgngwr/Metacraft-Functions-Errors.git
    ```
    
 2. **Install Truffle:**
