@@ -1,4 +1,4 @@
-# MyToken Project
+# Functions and Errors Project
 
 A simple Project Demonstarting implementation of Error Handling using require, assert & revert in Solidity.
 
